@@ -1,6 +1,5 @@
-import controller  as c
-
+import controller as c
 
 
 if __name__ == "__main__":
-    c().run()
+    c.run()
